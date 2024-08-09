@@ -1,3 +1,4 @@
 New banch
 CMD
-VS
+VSgit
+2 VS
